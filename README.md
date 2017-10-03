@@ -48,7 +48,7 @@ A handy library that helps to register iOS applications with the AeroGear Unifie
 In your `Podfile` add:
 
 ```bash
-pod 'AeroGear-Push'
+pod 'AeroGearPush'
 ```
 
 and then:
