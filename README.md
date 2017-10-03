@@ -131,7 +131,7 @@ In your application info.plist, add the following properties:
 </plist>
 ```
 
-> NOTE: If your UPS server installation uses a `self-signed certificate`, you can find a quick solution on how to enable support on our [troubleshooting page](https://aerogear.org/docs/unifiedpush/aerogear-push-ios/troubleshooting/#_question_failure_to_connect_when_server_uses_a_self_signed_certificate), as well as links for further information on how to properly enable it on your iOS production applications.
+> NOTE: If your UPS server installation uses a `self-signed certificate`, you can find a quick solution on how to enable support on our [troubleshooting page](https://aerogear.org/docs/unifiedpush/aerogear-push-ios/guides/#_question_failure_to_connect_when_server_uses_a_self_signed_certificate), as well as links for further information on how to properly enable it on your iOS production applications.
 
 ### Push analytics
 
