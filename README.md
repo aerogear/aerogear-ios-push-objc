@@ -160,13 +160,6 @@ fetchCompletionHandler:(void (^)(UIBackgroundFetchResult result))completionHandl
 
 For more details about that please consult [our documentation](http://aerogear.org/ios/).
 
-## Demo apps
-
-Take a look in our demo apps:
-
-* [UnifiedPushHelloWorld](https://github.com/aerogear/aerogear-ios-cookbook/tree/master/UnifiedPushHelloWorld)
-* [Howdy](https://github.com/aerogear/aerogear-ios-cookbook/tree/master/Howdy)
-
 ## Development
 
 If you would like to help develop AeroGear you can join our [developer's mailing list](https://lists.jboss.org/mailman/listinfo/aerogear-dev), join #aerogear on Freenode, or shout at us on Twitter @aerogears.
