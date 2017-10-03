@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "48289BDD1B2EEDF2004AF471"
-               BuildableName = "pushsdk.framework"
-               BlueprintName = "pushsdk"
-               ReferencedContainer = "container:push-sdk.xcodeproj">
+               BuildableName = "AeroGearPush.framework"
+               BlueprintName = "AeroGearPush"
+               ReferencedContainer = "container:AeroGearPush.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,9 +34,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "48289BE71B2EEDF2004AF471"
-               BuildableName = "pushsdkTests.xctest"
-               BlueprintName = "pushsdkTests"
-               ReferencedContainer = "container:push-sdk.xcodeproj">
+               BuildableName = "AeroGearPushTests.xctest"
+               BlueprintName = "AeroGearPushTests"
+               ReferencedContainer = "container:AeroGearPush.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -58,9 +58,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "48289BDD1B2EEDF2004AF471"
-            BuildableName = "pushsdk.framework"
-            BlueprintName = "pushsdk"
-            ReferencedContainer = "container:push-sdk.xcodeproj">
+            BuildableName = "AeroGearPush.framework"
+            BlueprintName = "AeroGearPush"
+            ReferencedContainer = "container:AeroGearPush.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>

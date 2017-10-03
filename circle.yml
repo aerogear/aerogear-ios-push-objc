@@ -2,8 +2,8 @@ machine:
   xcode:
     version: 9.0
   environment:
-    XCODE_WORKSPACE: "push-sdk.xcworkspace"
-    XCODE_SCHEME: "push-sdk"
+    XCODE_WORKSPACE: "AeroGearPush.xcworkspace"
+    XCODE_SCHEME: "AeroGearPush"
     SIMULATOR: "iPhone 7"
     OS: "11.0"
 
