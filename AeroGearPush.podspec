@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "AeroGearPush"
+  s.name         = "AeroGearPush-ObjC"
   s.version      = "2.0.1"
   s.summary      = "AeroGear UnifiedPush Client Registration SDK."
   s.homepage     = "https://github.com/aerogear/aerogear-ios-push-objc"
